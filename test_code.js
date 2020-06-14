@@ -1,1 +1,3 @@
-FUNCTION {}
+FUNCTION {
+	print("Hello world")
+}
